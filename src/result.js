@@ -1,3 +1,4 @@
+// TODO: Remove this temporary lab marker.
 export function resultLabel(score) {
   if (score < 0 || score > 100) {
     return 'Invalid score';
